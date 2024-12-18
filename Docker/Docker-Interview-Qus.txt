@@ -59,3 +59,5 @@ Registry
 # What stpes would you take to secure your container
 -> Ensure that the networking configured properly. This is the one of the most comman reasons for security issues. If required configure custom network and assign them to isolated containers.
 
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkJfZHRyRFZsSGE1LXEwN09xaEUxVlBrTnRTQXxBQ3Jtc0tsSFlVd1Y0Q3NkRXRQM0dhNlEzbzR0a2pnTDZ4LXB5N1FKaEJjTHBwV1BxSVJCbUd4ekJ4bGpvWmdHZ2lCLTVabkJ1Nk04enlNTlQxcjBhWVlqSnBDM294QkRKZW9uTl9TSllWbnZKVjFHaUUtRFdCaw&q=https%3A%2F%2Fcloudchamp.notion.site%2FDocker-Interview-Questions-9317cee2392147798571c09cf27bad85&v=HHcgzhfuaWc
+
